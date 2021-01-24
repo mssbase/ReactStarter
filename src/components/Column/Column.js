@@ -5,9 +5,8 @@ import PropTypes from 'prop-types';
 class Column extends React.Component {
     static propTypes = {
         title: PropTypes.node.isRequired,
-        children: PropTypes.node.isRequired,
-    }
 
+    }
 
     render() {
         return (
