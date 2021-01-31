@@ -2,10 +2,12 @@ import React from 'react';
 import styles from './Creator.scss';
 import Button from '../Button/Button';
 import PropTypes from 'prop-types';
+import {string} from 'prop-types';
 
 class Creator extends React.Component {
   static propTypes = {
     text: PropTypes.string,
+    action: string,
   }
 
   static defaultProps = {
