@@ -1,8 +1,7 @@
 import {connect} from 'react-redux';
 import Column from './Column.js';
 
-const mapStateToProps = (state, props) => ({
-  cards: getCardsForList(state, props.id),
+const mapStateToProps = (state, props) => ({cards: getCardsForList(state, props.id),
 });
 
 
