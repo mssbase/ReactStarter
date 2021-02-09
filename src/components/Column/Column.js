@@ -29,7 +29,6 @@ class Column extends React.Component {
             <span className={styles.icon}>
               <Icon name={icon}/>
             </span>
-
           </h3>
           <div className={styles.cards}>
             {cards.map(cardData => (
