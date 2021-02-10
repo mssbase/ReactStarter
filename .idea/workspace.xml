@@ -20,12 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="83a05376-2d54-4a16-b6fd-11974cc5b3ed" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Redux/cardsRedux.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Redux/cardsRedux.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Redux/searchStringRedux.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Redux/searchStringRedux.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Redux/store.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Redux/store.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Card/Card.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Card/Card.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Column/Column.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Column/Column.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,6 +63,7 @@
       <workItem from="1611331609356" duration="18111000" />
       <workItem from="1611684189674" duration="2913000" />
       <workItem from="1612090007447" duration="220000" />
+      <workItem from="1612957860624" duration="348000" />
     </task>
     <servers />
   </component>
@@ -93,5 +92,9 @@
     </state>
     <state x="485" y="70" width="670" height="676" key="search.everywhere.popup/0.23.1280.723@0.23.1280.723" timestamp="1611423140325" />
     <state x="485" y="70" width="670" height="677" key="search.everywhere.popup/0.23.1280.724@0.23.1280.724" timestamp="1612286682342" />
+    <state x="370" y="303" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1612955455042">
+      <screen x="0" y="23" width="1280" height="724" />
+    </state>
+    <state x="370" y="303" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.23.1280.724@0.23.1280.724" timestamp="1612955455042" />
   </component>
 </project>
