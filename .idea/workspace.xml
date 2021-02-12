@@ -19,16 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="83a05376-2d54-4a16-b6fd-11974cc5b3ed" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Redux/cardsRedux.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/cardsRedux.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Redux/columnsRedux.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/columnsRedux.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Redux/searchStringRedux.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/searchStringRedux.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Redux/store.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/store.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Column/ColumnContainer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Column/ColumnContainer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/List/ListContainer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/List/ListContainer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
-    </list>
+    <list default="true" id="83a05376-2d54-4a16-b6fd-11974cc5b3ed" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,7 +60,7 @@
       <workItem from="1611684189674" duration="2913000" />
       <workItem from="1612090007447" duration="220000" />
       <workItem from="1612957860624" duration="348000" />
-      <workItem from="1613067254532" duration="1312000" />
+      <workItem from="1613067254532" duration="1575000" />
     </task>
     <servers />
   </component>
