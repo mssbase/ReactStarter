@@ -7,7 +7,11 @@ const baseConfig = () => ({
   entry: path.join(__dirname, "src", "index.js"),
   output: {
     path: path.join(__dirname, 'dist'),
+    publicPath: '/',
     filename: 'scripts_bundle.js',
+  },
+  devServer: {
+    historyApiFallback: true,
   },
   module: {
     rules: [
