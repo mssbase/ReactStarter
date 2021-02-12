@@ -4,7 +4,7 @@ const HtmlWebpackPlugin = require('html-webpack-plugin');
 const MiniCssExtractPlugin = require('mini-css-extract-plugin');
 
 const baseConfig = () => ({
-  entry: './src/index.js',
+  entry: path.join(__dirname, "src", "index.js"),
   output: {
     path: path.join(__dirname, 'dist'),
     filename: 'scripts_bundle.js',
