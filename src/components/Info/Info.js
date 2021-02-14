@@ -7,7 +7,7 @@ const Info = () => (
   <Container>
     <Hero
       titleText={infoContents.title}
-      image={infoContents.imageSource}
+      imageSource={infoContents.imageSource}
     />
     {infoContents.content}
   </Container>

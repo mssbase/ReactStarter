@@ -24,4 +24,10 @@
       background: darken($color-warning, 5%);
     }
   }
+  &.red {
+    background-color: red;
+    &:hover {
+      background: darlem(red, 10%);
+    }
+  }
 }
